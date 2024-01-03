@@ -1,0 +1,8 @@
+.hp{
+    background-color: aqua;
+    border: 8px solid black;
+    box-shadow: 10px 15px 10px;
+    margin: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
